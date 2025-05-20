@@ -1,0 +1,79 @@
+h1{
+  color: gold;
+}
+.sec   h1{
+    color: black
+}
+.sec button{
+  color: gold;
+  width: 200px;
+  height: 30px;
+  background-color: black;
+  border: 20px;
+  border-radius: 20px;
+}
+.img1{
+  width: 400px;
+}
+
+.sect h1{
+  color: gold;
+}
+.sect button{
+  color: black;
+  width: 200px;
+  height: 30px;
+  background-color: gold;
+  border: 20px;
+  border-radius: 20px;
+}
+.img2{
+  width: 400px;
+}
+
+.secti h1{
+  color: black;
+  }
+.secti button{
+  color: gold;
+  width: 200px;
+  height: 30px;
+  background-color: black;
+  border: 20px;
+  border-radius: 20px;
+}
+.img3{
+  width: 400px;
+}
+
+.sectio h1{
+  color: gold;
+}
+.sectio button{
+  color: black;
+  width: 200px;
+  height: 30px;
+  background-color: gold;
+  border: 20px;
+  border-radius: 20px;
+}
+.img4{
+  width: 400px;
+}
+
+.section h1{
+  color: black;
+}
+.section button{
+  color: gold;
+  width: 200px;
+  height: 30px;
+  background-color: black;
+  border: 20px;
+  border-radius: 20px;
+}
+.img5{
+  width: 400px;
+}
+
+  
